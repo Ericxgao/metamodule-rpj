@@ -104,6 +104,7 @@ target_include_directories(RPJ PRIVATE
     ${SOURCE_DIR}/dsp/filters
     ${SOURCE_DIR}/dsp/third-party/falco
     ${SOURCE_DIR}/dsp/third-party/src
+    ${SOURCE_DIR}/dsp/
     ${SIMDE_DIR}
     ${CMAKE_CURRENT_SOURCE_DIR}/../metamodule-plugin-sdk/metamodule-plugin-libc/libstdc++-v3/include/experimental/bits
 )
