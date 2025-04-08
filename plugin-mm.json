@@ -1,0 +1,84 @@
+{
+    "MetaModulePluginMaintainer": "oksami",
+    "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
+    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-rpj",
+    "MetaModuleDescription": "RPJ for MetaModule",
+    "MetaModuleIncludedModules": [
+        {
+            "slug": "Grendel",
+            "name": "Grendel"
+        },
+        {
+            "slug": "Lavender",
+            "name": "Lavender"
+        },
+        {
+            "slug": "Easter",
+            "name": "Easter"
+        },
+        {
+            "slug": "DryLand",
+            "name": "DryLand"
+        },
+        {
+            "slug": "TheWeb",
+            "name": "TheWeb"
+        },
+        {
+            "slug": "Gazpacho",
+            "name": "Gazpacho"
+        },
+        {
+            "slug": "Estonia",
+            "name": "Estonia"
+        },
+        {
+            "slug": "Brave",
+            "name": "Brave"
+        },
+        {
+            "slug": "Essence",
+            "name": "Essence"
+        },
+        {
+            "slug": "LadyNina",
+            "name": "LadyNina"
+        },
+        {
+            "slug": "SugarMice",
+            "name": "SugarMice"
+        },
+        {
+            "slug": "Montreal",
+            "name": "Montreal"
+        },
+        {
+            "slug": "BlindCurve",
+            "name": "BlindCurve"
+        },
+        {
+            "slug": "Gaza",
+            "name": "Gaza"
+        },
+        {
+            "slug": "CircularRide",
+            "name": "CircularRide"
+        },
+        {
+            "slug": "DrillingHoles",
+            "name": "DrillingHoles"
+        },
+        {
+            "slug": "TuxOn",
+            "name": "TuxOn"
+        },
+        {
+            "slug": "PigeonPlink",
+            "name": "FM Pigeon Plink"
+        },
+        {
+            "slug": "Genie",
+            "name": "Genie"
+        },
+    ]
+}
